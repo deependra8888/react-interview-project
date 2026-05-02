@@ -8,7 +8,9 @@ import NotFound from './pages/NotFound';
 function App() {
   return (
     <Router>
+
       <div className="App">
+        
         <nav className="navbar">
           <Link to="/">Home</Link>
           <Link to="/about">About</Link>
